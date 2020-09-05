@@ -2,3 +2,6 @@
 Integration with Linux by the help of the Python CGI...and For storing the output data and records of the commands by using the Firebase as DataBase !!!!
 
 In Future I will add some more features......
+
+# Screenshots :-
+<img src="screenshots/1l.jpg" width=200px height=350>    <img src="screenshots/2l.jpg" width=200px height=350>    <img src="screenshots/3l.jpg" width=200px height=350>    <img src="screenshots/4l.jpg" width=200px height=350>
